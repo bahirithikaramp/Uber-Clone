@@ -1,34 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# *Uber Clone*
 
-## Getting Started
+An **Uber Clone** built using **NextJS, ReactJS, TailwindCSS and Firebase**.
+  
+This application provides authentication using Google Signin functionality from Firebase, choose preferred pickup and drop-off locations, get rates for different cars available calculated based on the ride duration.
 
-First, run the development server:
+The pickup and drop-off locations are marked on a map using **mapbox**.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+# Screenshots of clone
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Login Page
+<a href="https://im.ge/i/oERz3r"><img src="https://i.im.ge/2021/11/07/oERz3r.png" alt="oERz3r.png" border="0"></a>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### Home Screen
+<a href="https://im.ge/i/oERHnW"><img src="https://i.im.ge/2021/11/07/oERHnW.png" alt="oERHnW.png" border="0"></a>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### Location Search/ Selection Page
+<a href="https://im.ge/i/oERvq0"><img src="https://i.im.ge/2021/11/07/oERvq0.png" alt="oERvq0.png" border="0"></a>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Confirmation Page
+<a href="https://im.ge/i/oERJtT"><img src="https://i.im.ge/2021/11/07/oERJtT.png" alt="oERJtT.png" border="0"></a>
